@@ -55,7 +55,8 @@ header {
 #laptop-image {
   width: 41%;
   height: 41%;
-  margin-left: 450px;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 30px;
   display: block;
 }
@@ -111,6 +112,7 @@ h2 {
 
 #logo-grid {
   margin-left: 308px;
+  margin-bottom: 75px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
